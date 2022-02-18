@@ -1,0 +1,6 @@
+{
+  "id" : "classicmodels",
+  "type" : "DataService",
+  "packageNames" : [ "com.wavemaker.testforking.classicmodels" ],
+  "title" : "classicmodels"
+}
